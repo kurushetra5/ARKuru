@@ -32,7 +32,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
+        //hola desde github
         // Create a session configuration
         let configuration = ARWorldTrackingConfiguration()
 
